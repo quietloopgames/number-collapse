@@ -1,70 +1,38 @@
 # Privacy Policy for Number Collapse
 
-**Effective date:** September 20, 2026
+**Effective date:** September 24, 2026
 
-Number Collapse is developed and published by Quiet Loop Games. This Privacy Policy explains how information is handled when you use the Number Collapse mobile application.
+Number Collapse is developed and published by Quiet Loop Games. This policy explains how information is handled in the iOS and Android versions of the game. Features may differ by platform and version.
 
-## Information We Process
+## Game progress
 
-Number Collapse does not ask you to create an account and does not directly collect your name, email address, phone number, postal address, contacts, photos, videos, or payment card information.
+Puzzle progress, stars, coins, hints, themes, and unfinished puzzles are saved on your device so you can continue after closing and reopening the app. Deleting the app may delete locally saved progress.
 
-Depending on the features you use, the app and its service providers may process the following information:
+On iOS, connecting Apple Game Center is optional. If enabled, Apple Game Center and iCloud may identify your player account, share leaderboard scores, and sync progress. On Android, connecting Google Play Games is optional. If enabled, Google Play Games may identify your player account and display and store your Total Stars leaderboard score. Android game progress otherwise remains on the device; Play Games leaderboard connection does not sync game saves.
 
-- **Game progress and gameplay data:** puzzle progress, coins, hints, themes, daily and weekly challenge progress, and related game state.
-- **Game Center identifier:** when you choose to connect Game Center, an Apple-provided player identifier may be used to associate and restore your progress.
-- **Purchase history:** the app checks your Apple App Store entitlement to unlock Premium features and restore purchases. Payment information is processed by Apple and is not provided to us.
-- **Advertising and device data:** device identifiers, advertising data, advertisement interactions, product interactions, and IP-derived approximate location may be processed by Google Mobile Ads to display and measure advertisements.
-- **Diagnostics:** crash data, performance data, and other technical diagnostic information may be processed to maintain and improve the app and advertising services.
+## Advertising and privacy choices
 
-## How Information Is Used
+Where advertising is enabled, Google AdMob may show banner, interstitial, and optional rewarded ads to non-Premium players. Google may process device identifiers, advertising interactions, IP-derived approximate location, and diagnostic information to provide and measure ads. Where required, the app requests advertising consent and offers a way to change privacy choices. Premium removes ads from the game; data already processed by third parties remains subject to their retention policies. Learn more in the [Google Privacy Policy](https://policies.google.com/privacy).
 
-Information is used to:
+## Purchases
 
-- provide and maintain game functionality;
-- save and restore progress through Apple Game Center and iCloud when enabled;
-- process and restore the Premium Upgrade;
-- display and measure advertisements for non-premium users;
-- diagnose crashes, improve performance, and prevent technical problems.
+The optional Premium upgrade is a one-time purchase through Apple's App Store on iOS or Google Play Billing on Android, where available. The game checks purchase status to unlock Premium and support restoration. Apple or Google processes payment information; we do not receive your card or bank details. Pending purchases do not unlock Premium until completed.
 
-Number Collapse does not sell personal information. The app does not independently use collected information to track users across apps or websites owned by other companies.
+## Diagnostics and service providers
 
-## Advertising
+Apple, Google Play Games, Google Mobile Ads, and the respective app stores may process account identifiers, purchase status, device information, and technical diagnostics according to the services used. We use these services to run the game, provide leaderboards and optional progress sync, process purchases, show ads, and diagnose problems. We do not ask for your contacts, photos, or precise location to play. We do not sell personal information.
 
-Number Collapse uses Google Mobile Ads (AdMob) to display banner, interstitial, and rewarded advertisements. Google may process device information, advertising data, approximate location derived from an IP address, product interactions, and diagnostic data in accordance with Google's policies.
+## Children
 
-Where required, a consent form may be shown before advertising services are used. Premium users do not receive advertisements.
+The game is intended for a general puzzle-game audience and does not include chat or player-to-player messaging. If you believe a child has provided personal information to us, contact us.
 
-Google Privacy Policy: https://policies.google.com/privacy
+## Your choices and retention
 
-## Apple Game Center and iCloud
+You can play without connecting Game Center or Play Games. You can manage your Apple and Google accounts through their device settings, and delete local game data by removing the app. Third-party services retain and manage their data according to their own policies. You may contact us with a privacy question or request.
 
-Connecting Game Center is optional. If enabled, Apple services may be used to identify the player and restore game progress on another compatible Apple device. Apple processes this information under its own privacy policy.
+## Changes and contact
 
-Apple Privacy Policy: https://www.apple.com/legal/privacy/
-
-## In-App Purchases
-
-The Premium Upgrade is processed through Apple's App Store and StoreKit. We do not receive or store payment card or banking information. The app receives only the information necessary to confirm the purchase, unlock Premium features, and restore the purchase.
-
-## Children's Privacy
-
-Number Collapse is not designed to knowingly collect personal information directly from children. If you believe that a child has provided personal information through the app, contact us so the matter can be reviewed.
-
-## Data Retention and Control
-
-Locally stored game data can be removed by deleting the app. Game Center or iCloud data is managed through the user's Apple account and device settings. Advertising and diagnostic information processed by third-party providers is retained according to their respective policies.
-
-## Security
-
-Reasonable technical measures are used to protect app data. However, no electronic transmission or storage method can be guaranteed to be completely secure.
-
-## Changes to This Policy
-
-This Privacy Policy may be updated when the app, legal requirements, or third-party services change. The effective date at the top of this page will be updated when changes are made.
-
-## Contact
-
-For privacy questions or support, contact:
+We may update this policy when the game's features or service providers change. The effective date above reflects the latest update.
 
 **Quiet Loop Games**  
 Email: quiteloopgames@gmail.com
